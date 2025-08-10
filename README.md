@@ -4,7 +4,7 @@ Step 1:
 Setup the project in you local environment
 
 step2:
-create necesary tables in postgre sql
+create necessary tables in postgre sql
 CREATE DATABASE studentdb;
 
 \c studentdb
